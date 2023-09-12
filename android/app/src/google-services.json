@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "314437137424",
+    "project_id": "accident-3d0ff",
+    "storage_bucket": "accident-3d0ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314437137424:android:2723f55a6f26b21cc68695",
+        "android_client_info": {
+          "package_name": "com.example.accident_dectection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314437137424-5d7n7nu2u2u4a24dhfq0q0hd70t862mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.accident_dectection",
+            "certificate_hash": "469462c557343abd75513c0bd9537e6312808aa6"
+          }
+        },
+        {
+          "client_id": "314437137424-3ccofrrgvetikghdb0q12cmg3m7fojm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmhgZfMx6-KA180KOqrInOHm9gQMM_3JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314437137424-3ccofrrgvetikghdb0q12cmg3m7fojm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
